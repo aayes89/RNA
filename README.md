@@ -9,4 +9,8 @@ Ejemplos utilizando:
 - TensorFlow
 - Panda
 - Entrenamiento de SGD
+- Tesseract
 - Python
+
+Por añadir:
+- Leptonica
